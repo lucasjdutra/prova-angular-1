@@ -1,13 +1,6 @@
 {
   "books": [
     {
-      "id": 1,
-      "title": "Curso Basico de Angular",
-      "author": "Glauco",
-      "genre": "Educativo",
-      "price": 10
-    },
-    {
       "id": 2,
       "title": "Attack On Titan Final Season Part 4",
       "author": "Isayama",

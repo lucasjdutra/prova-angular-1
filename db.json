@@ -13,6 +13,13 @@
       "author": "Fatecson",
       "genre": "Suspense",
       "price": 99
+    },
+    {
+      "id": 4,
+      "title": "Curso Básico de Angular",
+      "author": "Glauco",
+      "genre": "Suspense",
+      "price": 99
     }
   ]
 }

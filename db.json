@@ -1,19 +1,25 @@
 {
-  "posts": [
+  "books": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "Livro 1",
+      "author": "Autor 1",
+      "genre": "Genero 1",
+      "price": 10.0
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "title": "Livro 2",
+      "author": "Autor 2",
+      "genre": "Genero 2",
+      "price": 20.0
+    },
+    {
+      "id": 3,
+      "title": "Livro 3",
+      "author": "Autor 3",
+      "genre": "Genero 3",
+      "price": 30.0
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
